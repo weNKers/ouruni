@@ -2,7 +2,8 @@
 
 
 ## 2018 
-[《我们眼中的大学》](https://www.wenkers.cn)
+> 域名：<https://www.wenkers.cn>
+> 首页：<https://www.ouruni.org>
 
 ## 2016-2017 在线网站
 > 域名: <http://lovenk.kuaizhan.com> (使用中)

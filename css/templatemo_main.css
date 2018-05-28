@@ -225,6 +225,8 @@ img.slide {
         
     }
     .footer-text {
+        position: absolute;
+        bottom: 0;
         margin-left: 0;
     }
 }

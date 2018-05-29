@@ -95,7 +95,7 @@ img.slide {
 .templatemo-content {
     position: static;
     overflow: hidden; 
-    margin-top: 36%;
+    margin-top: 20vh;
 }
 
 .templatemo-content section {
@@ -104,7 +104,7 @@ img.slide {
     overflow: hidden;
     top: 0; 
     background-color: rgba(255,255,255,0.75);
-    padding-bottom: 20px;
+    padding: 20px 40px;
 }
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 
@@ -195,7 +195,6 @@ img.slide {
 }
 
 .templatemo-content {
-    padding-bottom: 6%;
 }
 
 .footer {

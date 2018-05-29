@@ -1,5 +1,3 @@
-/* Credit: http://www.777moban.com */
-
 body, html { overflow-x: hidden; }
 
 body {
@@ -51,7 +49,7 @@ img {
 
 /* General */
 #main-wrapper {
-     overflow: hidden;
+    overflow: hidden;
 }
 
 .templatemo-site-title { 
@@ -195,6 +193,8 @@ img.slide {
 }
 
 .templatemo-content {
+    width: 50%;
+    margin-left: 50%;
 }
 
 .footer {
@@ -217,6 +217,11 @@ img.slide {
 }
 
 @media (max-width: 991px) {
+    .templatemo-content {
+        width: 100%;
+        margin-left: 0;
+    }
+
     .footer {
         overflow:hidden; 
         position:static;

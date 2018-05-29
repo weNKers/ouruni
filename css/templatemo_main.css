@@ -101,7 +101,7 @@ img.slide {
     position: relative; 
     overflow: hidden;
     top: 0; 
-    background-color: rgba(255,255,255,0.75);
+    background-color: rgba(255,255,255,0.8);
     padding: 20px 40px;
 }
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
@@ -217,9 +217,20 @@ img.slide {
 }
 
 @media (max-width: 991px) {
+    .text-center {
+        position: relative;
+    }
+    .templatemo-site-title {
+        font-size: 32px;
+        display: block;
+    }
+    .templatemo-content-wrapper {
+        overflow: visible;
+    }
     .templatemo-content {
         width: 100%;
         margin-left: 0;
+        margin-top: 0;
     }
 
     .footer {
@@ -229,8 +240,6 @@ img.slide {
         
     }
     .footer-text {
-        position: absolute;
-        bottom: 0;
         margin-left: 0;
     }
 }
